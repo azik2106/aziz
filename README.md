@@ -9,3 +9,5 @@ float a[10];
 float *p;
 p=a;
 ```
+## Основные подсказки по ссылке
+http://coddism.com/zametki/razmetka_readmemd_v_github
