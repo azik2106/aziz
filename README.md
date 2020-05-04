@@ -11,3 +11,7 @@ p=a;
 ```
 ## Основные подсказки по ссылке
 http://coddism.com/zametki/razmetka_readmemd_v_github
+
+https://githowto.com/ru/setup
+
+https://git-scm.com/
